@@ -12,6 +12,7 @@ import { CookieBanner } from '@palmabit/react-cookie-law';
 
 import Header from "./header"
 import Footer from "./footer"
+import './../fonts/icomoon/style.css'
 import './../sass/style.scss'
 
 const Layout = ({ children }) => {
