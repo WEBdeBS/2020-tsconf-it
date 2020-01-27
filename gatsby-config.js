@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/2020-tsconf-it",
+  pathPrefix: "/",
   siteMetadata: {
     title: `Independent Italian TypeScript Conference`,
     description: `A new amazing conference by WEBdeBS! On 2 October 2020 unite with the whole Italian TypeScript Community!`,
