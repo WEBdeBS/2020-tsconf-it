@@ -34,7 +34,7 @@ const Footer = () => (
         <div className="col-md-12 text-center">
           <div className="border-top pt-5">
             <p>
-              Copyright © WEBdeBS 2019
+              Copyright © WEBdeBS 2020
               <br/>
               WEBdeBS - Associazione di Promozione Sociale senza scopo di lucro <a href="http://www.webdebs.org" target="_blank" rel="noopener">www.webdebs.org</a> - <a href="mailto:info@webdebs.org">info@webdebs.org</a>
             </p>
