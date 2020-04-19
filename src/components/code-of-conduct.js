@@ -3,16 +3,15 @@ import React from 'react'
 const CodeOfConduct = () => (
   <div className="site-section code-of-conduct" id="code-of-conduct">
     <div className="container">
-      <div className="row align-items-center">
-        <div className="col-md-4">
+      <div className="row">
+        <div className="col-md-12">
           <div className="site-section-heading" data-aos-disabled="fade-up">
             <h2 className="d-block mb-4" data-aos-disabled="fade-up" data-aos-delay="200">Code of conduct</h2>
           </div>
         </div>
       </div>
       <div className="row">
-        <div className="col-md-4"></div>
-        <div className="col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
+        <div className="col-md-12 aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
           <p>TS-Conf IT is a community conference intended for networking and collaboration in the developer community. We value the participation of each member of the community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by TS-Conf IT or not.</p>
           <p>To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any TS-Conf IT event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.</p>
           <p>TS-Conf IT is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form.</p>
@@ -23,8 +22,7 @@ const CodeOfConduct = () => (
         </div>
       </div>
       <div className="row">
-        <div className="col-md-4 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400"><span className="text-primary">Contact information</span></div>
-        <div className="col-md-6 aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
+        <div className="col-md-12 aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
           <p>If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of conference staff.</p>
           <p>Conference staff will be wearing “Staff” badges.</p>
           <p>You may also contact hotel staff and ask to be put in touch with the conference chair.</p>

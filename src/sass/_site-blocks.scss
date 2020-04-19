@@ -3,6 +3,14 @@
 }
 
 .site-hero {
+	.date {
+		font-size: 1.4em;
+	}
+	.del {
+		text-decoration: line-through;
+		color: red;
+		-webkit-text-fill-color: #4079bc;
+	}
 	margin-bottom: 10rem;
 	&, .row {
 		min-height: 700px;

@@ -12,10 +12,10 @@ const IndexPage = () => (
   <Layout>
     <SEO title="TS Conf" />
     <Hero />
-    <CallForPaper />
+    {/* <CallForPaper /> */}
     <Newsletter />
     <CodeOfConduct />
-    <Map />
+    {/* <Map /> */}
   </Layout>
 )
 
