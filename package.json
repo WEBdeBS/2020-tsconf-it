@@ -7,7 +7,7 @@
   "dependencies": {
     "@palmabit/react-cookie-law": "^0.2.4",
     "gatsby": "^2.17.11",
-    "gatsby-cli": "^2.8.27",
+    "gatsby-cli": "^2.8.30",
     "gatsby-image": "^2.2.31",
     "gatsby-plugin-manifest": "^2.2.27",
     "gatsby-plugin-offline": "^3.0.19",
@@ -16,11 +16,14 @@
     "gatsby-plugin-sharp": "^2.2.37",
     "gatsby-source-filesystem": "^2.1.36",
     "gatsby-transformer-sharp": "^2.3.3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "prop-types": "^15.7.2",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "sharp": "^0.25.2",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
   },
   "devDependencies": {
     "gh-pages": "^2.1.1",

@@ -6,15 +6,15 @@ const Footer = () => (
       <div className="row mb-5">
         <div className="col-md-4">
           <h2 className="footer-heading text-uppercase mb-4">About Event</h2>
-          <p>A new amazing conference by WEBdeBS! On 2 October 2020 unite with the whole Italian TypeScript Community!</p>
+          <p>A new amazing conference by WEBdeBS!  {/* On 2 October 2020  */} unite with the whole Italian TypeScript Community!</p>
         </div>
         <div className="col-md-3 ml-auto">
           <h2 className="footer-heading text-uppercase mb-4">Quick Links</h2>
           <ul className="list-unstyled">
-            <li><a href="#call-for-paper">Call for paper</a></li>
+            {/* <li><a href="#call-for-paper">Call for paper</a></li> */}
             <li><a href="#newsletter">Newsletter</a></li>
             <li><a href="#code-of-conduct">Code of Conduct</a></li>
-            <li><a href="#location">Location</a></li>
+            {/* <li><a href="#location">Location</a></li> */}
             {/* 
             <li><a href="/speakers">Speakers</a></li>
             <li><a href="#schedule">Schedule</a></li>

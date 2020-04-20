@@ -132,7 +132,7 @@ h1, h2, h3, h4, h5,
 			height: 2px;
 			background: linear-gradient(to right, $color1_gradient_a, $color1_gradient_b 70%);
 			@include media-breakpoint-up(lg) {
-				left: -20%;
+				left: -80px;
 			}
 		}
 		&.text-center {

@@ -3,10 +3,18 @@
 }
 
 .site-hero {
+	.date {
+		font-size: 1.4em;
+	}
+	.del {
+		text-decoration: line-through;
+		color: red;
+		-webkit-text-fill-color: #4079bc;
+	}
 	margin-bottom: 10rem;
 	&, .row {
 		min-height: 700px;
-		height: calc(100vh - 95px);
+		//height: calc(100vh - 95px);
 	}
 	&.inner {
 		&, .row {
@@ -14,7 +22,16 @@
 			height: calc(50vh - 95px);
 		}
 	}
+	.intro {
+		margin-top: 50px;
+		@include media-breakpoint-up(lg) {
+	  	font-size: 8rem;
+			margin-top: auto;
+	  }
+	}
+
 	h1 {
+		margin-top: 50px;
 		font-size: 4rem;
 		background: linear-gradient(to right, $color1_gradient_a, $color1_gradient_b 70%);
 		font-weight: 800;

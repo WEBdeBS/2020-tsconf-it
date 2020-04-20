@@ -16,10 +16,10 @@ const Header = () => (
           <nav className="site-navigation position-relative text-right" role="navigation">
             <ul className="site-menu js-clone-nav mx-auto d-none d-lg-block">
               <li className="active"><a href="/">Home</a></li>
-              <li><a href="#call-for-paper">Call for paper</a></li>
+              {/* <li><a href="#call-for-paper">Call for paper</a></li> */}
               <li><a href="#newsletter">Newsletter</a></li>
               <li><a href="#code-of-conduct">Code of Conduct</a></li>
-              <li><a href="#location">Location</a></li>
+              {/* <li><a href="#location">Location</a></li> */}
               {/*
               <li><a href="#speakers">Speakers</a></li>
               <li><a href="#schedule">Schedule</a></li>
